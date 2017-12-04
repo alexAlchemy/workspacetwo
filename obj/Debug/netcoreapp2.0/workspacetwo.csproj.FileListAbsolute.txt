@@ -1,0 +1,10 @@
+/home/alexroot/code/workspacetwo/bin/Debug/netcoreapp2.0/workspacetwo.deps.json
+/home/alexroot/code/workspacetwo/bin/Debug/netcoreapp2.0/workspacetwo.runtimeconfig.json
+/home/alexroot/code/workspacetwo/bin/Debug/netcoreapp2.0/workspacetwo.runtimeconfig.dev.json
+/home/alexroot/code/workspacetwo/bin/Debug/netcoreapp2.0/workspacetwo.dll
+/home/alexroot/code/workspacetwo/bin/Debug/netcoreapp2.0/workspacetwo.pdb
+/home/alexroot/code/workspacetwo/obj/Debug/netcoreapp2.0/workspacetwo.csproj.CoreCompileInputs.cache
+/home/alexroot/code/workspacetwo/obj/Debug/netcoreapp2.0/workspacetwo.AssemblyInfoInputs.cache
+/home/alexroot/code/workspacetwo/obj/Debug/netcoreapp2.0/workspacetwo.AssemblyInfo.cs
+/home/alexroot/code/workspacetwo/obj/Debug/netcoreapp2.0/workspacetwo.dll
+/home/alexroot/code/workspacetwo/obj/Debug/netcoreapp2.0/workspacetwo.pdb
